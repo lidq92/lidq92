@@ -1,6 +1,6 @@
 ### Hi there 👋 This is [my homepage](https://lidq92.github.io).
 
-I'm currently focusing on my project and may not respond to some nonlethal issues. Thank you! (Written on 21/12/2022)
+I'm currently focusing on my project and may not respond to some nonlethal issues. Thank you! (Written on 4/7/2024)
 
 <!--
 **lidq92/lidq92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
