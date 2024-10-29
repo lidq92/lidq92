@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 [![Dingquan's github stats](https://github-readme-stats.vercel.app/api?username=lidq92)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lidq92&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lidq92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Fast access to some projects: [MDTVSFA](https://github.com/lidq92/MDTVSFA), [VSFA](https://github.com/lidq92/VSFA), [LinearityIQA](https://github.com/lidq92/LinearityIQA), [SFA](https://github.com/lidq92/SFA), [IQA4VQA](https://github.com/lidq92/IQA4VQA), [msmlTMIQA](https://github.com/lidq92/msmlTMIQA), [YangiD/BlackBox_Attack_NRIQA](https://github.com/YangiD/BlackBox_Attack_NRIQA), [YangiD/DefenseIQA-NT](https://github.com/YangiD/DefenseIQA-NT), [zwx8981/BIQA_CL](https://github.com/zwx8981/BIQA_CL), [zwx8981/PerceptualAttack_BIQA](https://github.com/zwx8981/PerceptualAttack_BIQA), [SuperBruceJia/NLNet-IQA](https://github.com/SuperBruceJia/NLNet-IQA), [wangzhihua520/SemiNCL_IQA](https://github.com/wangzhihua520/SemiNCL_IQA) ... [lidq92/WaDIQaM](https://github.com/lidq92/WaDIQaM), [lidq92/CNNIQA](https://github.com/lidq92/CNNIQA), [lidq92/CNNIQAplusplus](https://github.com/lidq92/CNNIQAplusplus) ...
 
